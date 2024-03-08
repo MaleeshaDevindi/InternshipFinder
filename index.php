@@ -11,7 +11,6 @@
 </head>
 <body>
 
-<a href="google.com">Google</a>
 <div class="loader"></div>
 
 <script type="text/javascript" src="script.js"></script>
